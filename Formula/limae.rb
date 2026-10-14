@@ -7,23 +7,23 @@ class Limae < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Luolc/limae/releases/download/v0.13.3/limae-aarch64-apple-darwin.tar.gz"
-      sha256 "b92b6f64af273003e11532cde7337be0a9f4e5ca33e869cf362aeb87ab9d1c73"
+      url "https://github.com/Luolc/limae/releases/download/v0.13.4/limae-aarch64-apple-darwin.tar.gz"
+      sha256 "2ecbfdfff3b9e6518a86f3c33e992b0accf55fc00e9404bcd8f7c180e380d029"
     end
     on_intel do
-      url "https://github.com/Luolc/limae/releases/download/v0.13.3/limae-x86_64-apple-darwin.tar.gz"
-      sha256 "1efefbf73e0bac2260e40a876f59d816fefeb10b172f58c0706a0f17ea7db85c"
+      url "https://github.com/Luolc/limae/releases/download/v0.13.4/limae-x86_64-apple-darwin.tar.gz"
+      sha256 "d15b897660dbc120b555bf01bbe94b3e43e5cab1db5121902bcc56c806d0ddd7"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/Luolc/limae/releases/download/v0.13.3/limae-aarch64-unknown-linux-musl.tar.gz"
-      sha256 "c2d50f6f8dbe8268cc305ee83cba12b52194d75c888e6d8ed006ca13625a69ce"
+      url "https://github.com/Luolc/limae/releases/download/v0.13.4/limae-aarch64-unknown-linux-musl.tar.gz"
+      sha256 "f494e945431df84b22bba69c3e287b72a552faa942814525acc9f9ec15d93d15"
     end
     on_intel do
-      url "https://github.com/Luolc/limae/releases/download/v0.13.3/limae-x86_64-unknown-linux-musl.tar.gz"
-      sha256 "d36579c252121d187d948410ea7e256cdbc76bbb0c0087b950ca4a4e48d0ab1e"
+      url "https://github.com/Luolc/limae/releases/download/v0.13.4/limae-x86_64-unknown-linux-musl.tar.gz"
+      sha256 "fe7b6228cfccc7f8d38e27c8321eb4d45529869baf29a7dd1b30bd833694c63e"
     end
   end
 
