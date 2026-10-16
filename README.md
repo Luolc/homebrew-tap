@@ -6,6 +6,7 @@ A [Homebrew](https://brew.sh/) tap for [Luolc](https://github.com/Luolc)'s tools
 
 ```sh
 brew install luolc/tap/limae
+brew install luolc/tap/statute
 ```
 
 Or tap first, then install by bare name:
@@ -22,6 +23,7 @@ Works on macOS and on Linuxbrew.
 | Formula | What it is | Upstream |
 | --- | --- | --- |
 | `limae` | A Markdown linter that starts from Chinese technical-writing typography rules | [Luolc/limae](https://github.com/Luolc/limae) |
+| `statute` | Compiles a constitution and chosen rules into the instruction files coding agents read | [Luolc/agent-constitution](https://github.com/Luolc/agent-constitution) |
 
 ## Do not edit the formulae by hand
 
