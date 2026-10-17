@@ -7,23 +7,23 @@ class Statute < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Luolc/agent-constitution/releases/download/statute-v0.1.18/statute-aarch64-apple-darwin.tar.gz"
-      sha256 "692e695880b6ac5a267aaa441e3d94ced46578345fce9b01f54ee36ecfbfed6b"
+      url "https://github.com/Luolc/agent-constitution/releases/download/statute-v0.1.19/statute-aarch64-apple-darwin.tar.gz"
+      sha256 "5089f3283c2a7a6cf4830a59922b5d09fbb2cc4fb8e893c8e749478b7579c6cc"
     end
     on_intel do
-      url "https://github.com/Luolc/agent-constitution/releases/download/statute-v0.1.18/statute-x86_64-apple-darwin.tar.gz"
-      sha256 "24478f6d5240b133baf12fde6bfa94406e304793b8d317ddec26f2aade47693a"
+      url "https://github.com/Luolc/agent-constitution/releases/download/statute-v0.1.19/statute-x86_64-apple-darwin.tar.gz"
+      sha256 "3b20b27b70b03c26d4ba1ef6708c4ab25b19cfbea21e1758baf16b80998e647d"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/Luolc/agent-constitution/releases/download/statute-v0.1.18/statute-aarch64-unknown-linux-musl.tar.gz"
-      sha256 "ebb32e893e7ad15f850d7f3a686192e5b87e4ff69703c3563226fb82ac894cb5"
+      url "https://github.com/Luolc/agent-constitution/releases/download/statute-v0.1.19/statute-aarch64-unknown-linux-musl.tar.gz"
+      sha256 "9c282c79b3fad572c994f54ec70d5ea72673553d20484ba873e0e95ffdb44127"
     end
     on_intel do
-      url "https://github.com/Luolc/agent-constitution/releases/download/statute-v0.1.18/statute-x86_64-unknown-linux-musl.tar.gz"
-      sha256 "20d7cfc7e5c02d0b5e52cbe2fe9afc06a7f274f646e2718cb3407bb23c869ed7"
+      url "https://github.com/Luolc/agent-constitution/releases/download/statute-v0.1.19/statute-x86_64-unknown-linux-musl.tar.gz"
+      sha256 "f6e8dbee61449625d06102f74c313f21202082b32d0a246000d2eab049d8dec0"
     end
   end
 
