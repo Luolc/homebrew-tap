@@ -6,9 +6,6 @@ request came in. This tap hosts formulae for more than one upstream project and
 its readers are Homebrew users anywhere, so the Chinese default that applies to
 some of the owner's other repositories does not apply here.
 
-Cross-repository agent rules live in `~/.agents/AGENTS.md` and still hold; this
-file only states what is specific to this repository.
-
 ## What this repository is for
 
 Homebrew formulae, and nothing else. It carries no build, no tests and no
